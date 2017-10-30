@@ -12,7 +12,6 @@ const params = {
   renderer: CLUSTERED_FORWARD_PLUS,
   _renderer: null,
 };
-
 setRenderer(params.renderer);
 
 function setRenderer(renderer) {
